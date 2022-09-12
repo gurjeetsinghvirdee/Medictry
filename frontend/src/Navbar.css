@@ -1,0 +1,22 @@
+.container {
+    padding: 0 3em;
+    border-bottom: lightgreen 1px solid;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.navbar__logo {
+    display: flex;
+    align-items: center;
+}
+
+.navbar__logo img {
+    width: 11em;
+    object-fit: contain;
+    margin-right: 2em;
+}

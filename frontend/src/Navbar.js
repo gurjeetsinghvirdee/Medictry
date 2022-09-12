@@ -1,9 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Navbar.css'
 
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <div className='container'>
+      <div className='navbar'>
+        <Link className='nav__link' to='/'>
+          <div className='navbar__logo'>
+            <img src={require('./Images/Medictry.jpg')} alt="Medictry" />
+          </div>
+        </Link>
+      </div>
+    </div>
   )
 }
 
