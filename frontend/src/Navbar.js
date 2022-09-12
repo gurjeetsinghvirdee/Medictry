@@ -8,7 +8,7 @@ function Navbar() {
       <div className='navbar'>
         <Link className='nav__link' to='/'>
           <div className='navbar__logo'>
-            <img src={require('./Images/Medictry.jpg')} alt="Medictry" />
+            <img src={require('./Images/Logo (1).png')} alt="Medictry" />
           </div>
         </Link>
       </div>
