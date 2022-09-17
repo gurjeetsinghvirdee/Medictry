@@ -10,15 +10,15 @@ medicines: [
             "MFG": "2022",
             "EXPIRY": "2025"
          },
-{
-"Name": "Revital H Capsule",
-"Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/m6j6dbcf8ht96zbfqjuf.jpg",
-"Description": "Revital H Capsule is a combination of vitamins and minerals that helps to support daily energy needs. Ginseng helps to improve concentration and also increases oxygen consumption in the body. It helps to maintain energy and stamina throughout the day.",
-"Orignal Price": "310",
-"Discounted Price": "271",
-"MFG": "2022",
-"EXPIRY": "2025"
-},
+         {
+            "Name": "Revital H Capsule",
+            "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/m6j6dbcf8ht96zbfqjuf.jpg",
+            "Description": "Revital H Capsule is a combination of vitamins and minerals that helps to support daily energy needs. Ginseng helps to improve concentration and also increases oxygen consumption in the body. It helps to maintain energy and stamina throughout the day.",
+            "Orignal Price": "310",
+            "Discounted Price": "271",
+            "MFG": "2022",
+            "EXPIRY": "2025"
+         },
 {
 "Name": "Saridon Advance Severe Headache Relief Tablet",
 "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
