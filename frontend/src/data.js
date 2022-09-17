@@ -27,24 +27,24 @@ const data = [
           "MFG": "2022",
           "EXPIRY": "2024"
        },
-{
-"Name": "Sazo 500 Tablet",
-"Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ozpio79jfmtsra9mcy85.jpg",
-"Description": "azo 500 Tablet is a medicine used to treat various inflammatory conditions of the joints (rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis), skin (psoriasis), and bowel (ulcerative colitis, Crohn’s disease).",
-"Orignal Price": "74.24",
-"Discounted Price": "59.2",
-"MFG": "2022",
-"EXPIRY": "2023"
-},
-{
-"Name": "Telma 40 Tab",
-"Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ape4pcu670zsg7qbvoia.jpg",
-"Description": "Telma 40 Tablet is a medicine used to treat high blood pressure and heart failure. Lowering blood pressure helps to prevent future heart attacks and strokes. This medicine is also effective in preserving kidney function in patients with diabetes.\r",
-"Orignal Price": "122.98",
-"Discounted Price": "89.6",
-"MFG": "2022",
-"EXPIRY": "2024"
-},
+       {
+          "Name": "Sazo 500 Tablet",
+          "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ozpio79jfmtsra9mcy85.jpg",
+          "Description": "azo 500 Tablet is a medicine used to treat various inflammatory conditions of the joints (rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis), skin (psoriasis), and bowel (ulcerative colitis, Crohn’s disease).",
+          "Orignal Price": "74.24",
+          "Discounted Price": "59.2",
+          "MFG": "2022",
+          "EXPIRY": "2023"
+       },
+       {
+          "Name": "Telma 40 Tab",
+          "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ape4pcu670zsg7qbvoia.jpg",
+          "Description": "Telma 40 Tablet is a medicine used to treat high blood pressure and heart failure. Lowering blood pressure helps to prevent future heart attacks and strokes. This medicine is also effective in preserving kidney function in patients with diabetes.\r",
+          "Orignal Price": "122.98",
+          "Discounted Price": "89.6",
+          "MFG": "2022",
+          "EXPIRY": "2024"
+       },
 {
 "Name": "Taxim-O 200 Tab",
 "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/lt8bm4qbhvxnxtsfelcr.jpg",
