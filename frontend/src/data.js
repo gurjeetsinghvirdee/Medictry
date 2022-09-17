@@ -19,15 +19,15 @@ medicines: [
             "MFG": "2022",
             "EXPIRY": "2025"
          },
-{
-"Name": "Saridon Advance Severe Headache Relief Tablet",
-"Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
-"Description": "Saridon Advance Tablet is a new advanced formula of the India’s leading headache specialist. It starts action within 5 minutes to offer relief from severe headaches, migraine pain, toothache and body aches.",
-"Orignal Price": "45",
-"Discounted Price": "41",
-"MFG": "2022",
-"EXPIRY": "2024"
-},
+         {
+            "Name": "Saridon Advance Severe Headache Relief Tablet",
+            "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
+            "Description": "Saridon Advance Tablet is a new advanced formula of the India’s leading headache specialist. It starts action within 5 minutes to offer relief from severe headaches, migraine pain, toothache and body aches.",
+            "Orignal Price": "45",
+            "Discounted Price": "41",
+            "MFG": "2022",
+            "EXPIRY": "2024"
+         },
 {
 "Name": "Sazo 500 Tablet",
 "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ozpio79jfmtsra9mcy85.jpg",
