@@ -1,5 +1,5 @@
 const data = [
-medicines: [
+ medicines: [
        {
           "Name": "Rabeprazole",
           "Image URL": "https://mediboonpharma.com/wp-content/uploads/2020/11/AAAAA_77.jpg",
