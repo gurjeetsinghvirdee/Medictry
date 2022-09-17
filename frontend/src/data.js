@@ -1,33 +1,32 @@
 const data = [
 medicines: [
-      [
-         {
-            "Name": "Rabeprazole",
-            "Image URL": "https://mediboonpharma.com/wp-content/uploads/2020/11/AAAAA_77.jpg",
-            "Description": "Rabeprazole is a proton pump inhibitor (PPI) that decreases the amount of acid produced by the stomach. This medicine is available only with your doctor's prescription. This product is available in the following dosage forms: Capsule, Delayed Release. Tablet, Enteric Coated",
-            "Orignal Price": "58",
-            "Discounted Price": "49",
-            "MFG": "2022",
-            "EXPIRY": "2025"
-         },
-         {
-            "Name": "Revital H Capsule",
-            "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/m6j6dbcf8ht96zbfqjuf.jpg",
-            "Description": "Revital H Capsule is a combination of vitamins and minerals that helps to support daily energy needs. Ginseng helps to improve concentration and also increases oxygen consumption in the body. It helps to maintain energy and stamina throughout the day.",
-            "Orignal Price": "310",
+       {
+          "Name": "Rabeprazole",
+          "Image URL": "https://mediboonpharma.com/wp-content/uploads/2020/11/AAAAA_77.jpg",
+          "Description": "Rabeprazole is a proton pump inhibitor (PPI) that decreases the amount of acid produced by the stomach. This medicine is available only with your doctor's prescription. This product is available in the following dosage forms: Capsule, Delayed Release. Tablet, Enteric Coated",
+          "Orignal Price": "58",
+          "Discounted Price": "49",
+          "MFG": "2022",
+          "EXPIRY": "2025"
+       },
+       {
+          "Name": "Revital H Capsule",
+          "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/m6j6dbcf8ht96zbfqjuf.jpg",
+          "Description": "Revital H Capsule is a combination of vitamins and minerals that helps to support daily energy needs. Ginseng helps to improve concentration and also increases oxygen consumption in the body. It helps to maintain energy and stamina throughout the day.",
+          "Orignal Price": "310",
             "Discounted Price": "271",
-            "MFG": "2022",
-            "EXPIRY": "2025"
-         },
-         {
-            "Name": "Saridon Advance Severe Headache Relief Tablet",
-            "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
-            "Description": "Saridon Advance Tablet is a new advanced formula of the India’s leading headache specialist. It starts action within 5 minutes to offer relief from severe headaches, migraine pain, toothache and body aches.",
-            "Orignal Price": "45",
-            "Discounted Price": "41",
-            "MFG": "2022",
-            "EXPIRY": "2024"
-         },
+          "MFG": "2022",
+          "EXPIRY": "2025"
+       },
+       {
+          "Name": "Saridon Advance Severe Headache Relief Tablet",
+          "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/ga3wcjor5sw9sam0zqkv.jpg",
+          "Description": "Saridon Advance Tablet is a new advanced formula of the India’s leading headache specialist. It starts action within 5 minutes to offer relief from severe headaches, migraine pain, toothache and body aches.",
+          "Orignal Price": "45",
+          "Discounted Price": "41",
+          "MFG": "2022",
+          "EXPIRY": "2024"
+       },
 {
 "Name": "Sazo 500 Tablet",
 "Image URL": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ozpio79jfmtsra9mcy85.jpg",
